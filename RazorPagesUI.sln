@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RazorPagesUI", "RazorPagesUI\RazorPagesUI.csproj", "{A1E60462-A1FA-4A13-81D3-E0DC5617E168}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFDataLibrary", "EFDataLibrary\EFDataLibrary.csproj", "{6C56B1C4-66D2-43B1-B1DF-BDB1B4D6BBF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1E60462-A1FA-4A13-81D3-E0DC5617E168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1E60462-A1FA-4A13-81D3-E0DC5617E168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1E60462-A1FA-4A13-81D3-E0DC5617E168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1E60462-A1FA-4A13-81D3-E0DC5617E168}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C56B1C4-66D2-43B1-B1DF-BDB1B4D6BBF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C56B1C4-66D2-43B1-B1DF-BDB1B4D6BBF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C56B1C4-66D2-43B1-B1DF-BDB1B4D6BBF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C56B1C4-66D2-43B1-B1DF-BDB1B4D6BBF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D21184B9-FD14-4036-A4EB-981C863860B5}
+	EndGlobalSection
+EndGlobal
